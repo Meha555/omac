@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@opencode-ai/plugin": "^1.16.2",
+    "@types/node": "^25.9.2",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "check:ts": "npm exec tsc -- --noEmit"
+  }
+}

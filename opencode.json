@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    [
+      "./.opencode/access-control.ts",
+      {
+        "configFile": ".opencode/access-control.json"
+      }
+    ]
+  ]
+}

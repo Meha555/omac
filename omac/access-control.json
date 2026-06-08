@@ -1,0 +1,26 @@
+{
+  "strings": {
+    "allow": [],
+    "deny": [
+
+    ]
+  },
+  "files": {
+    "allow": [],
+    "deny": [
+
+    ]
+  },
+  "folders": {
+    "allow": [],
+    "deny": [
+
+    ]
+  },
+  "commands": {
+    "allow": [],
+    "deny": [
+
+    ]
+  }
+}
